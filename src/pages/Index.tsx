@@ -111,7 +111,7 @@ const Index = () => {
                   <img 
                     src={pkg.image} 
                     alt={pkg.title}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover my-0"
                   />
                 </div>
               </CardHeader>
