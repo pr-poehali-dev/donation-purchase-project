@@ -42,7 +42,7 @@ const donationPackages: DonationPackage[] = [
     price: 1499,
     currency: '₽',
     benefits: ['700 игровых монет', '35 бустеров', '7 эксклюзивных скинов', 'VIP статус на 30 дней', 'Уникальное оружие'],
-    image: 'https://cdn.poehali.dev/projects/754f4399-6acd-4227-b8d6-99fbdf1aa747/files/c9202cfb-eb69-466e-a7d8-dd30bb6a2636.jpg',
+    image: 'https://cdn.poehali.dev/projects/754f4399-6acd-4227-b8d6-99fbdf1aa747/files/da8ee848-e57c-4718-8c46-d47ec7fe81ad.jpg',
     tag: 'Выгодно',
   },
   {
