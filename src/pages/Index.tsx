@@ -20,7 +20,7 @@ interface DonationPackage {
 const donationPackages: DonationPackage[] = [
   {
     id: 1,
-    title: 'Starter Pack',
+    title: 'СЕРВЕР+',
     price: 299,
     currency: '₽',
     benefits: ['100 игровых монет', '5 бустеров', 'Эксклюзивный скин'],
