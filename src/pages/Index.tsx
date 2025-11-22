@@ -47,7 +47,7 @@ const donationPackages: DonationPackage[] = [
   },
   {
     id: 4,
-    title: 'Ultimate Pack',
+    title: 'Временный Администратор',
     price: 2999,
     currency: '₽',
     benefits: ['1500 игровых монет', '80 бустеров', '15 эксклюзивных скинов', 'VIP статус на 90 дней', '3 уникальных оружия', 'Персональный бейдж'],
