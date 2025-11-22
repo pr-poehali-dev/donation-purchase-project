@@ -78,7 +78,7 @@ const Index = () => {
             Windows.Vista
           </h1>
           <p className="text-xl md:text-2xl text-foreground/90 mb-8 max-w-2xl mx-auto">
-            Прокачай своего персонажа с эксклюзивными донатами и бонусами
+            Прокачай свой аккаунт крутыми правами и ролями
           </p>
           <Button size="lg" className="glow-effect text-lg px-8 py-6">
             <Icon name="Gamepad2" className="mr-2" size={24} />
