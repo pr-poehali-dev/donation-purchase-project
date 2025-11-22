@@ -24,7 +24,7 @@ const donationPackages: DonationPackage[] = [
     price: 299,
     currency: '₽',
     benefits: ['Высокое отображение в табе', '+ 10 уровней', 'Время ответа поддержки на сервере макс. 1 час'],
-    image: 'https://cdn.poehali.dev/projects/754f4399-6acd-4227-b8d6-99fbdf1aa747/files/83a9be9e-0f60-42bc-8e4a-ac3dedec2c95.jpg',
+    image: 'https://cdn.poehali.dev/projects/754f4399-6acd-4227-b8d6-99fbdf1aa747/files/05709c12-64df-4b86-bf61-fc5d2e046915.jpg',
   },
   {
     id: 2,
