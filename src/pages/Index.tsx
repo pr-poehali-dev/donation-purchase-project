@@ -74,7 +74,7 @@ const Index = () => {
         }}
       >
         <div className="container mx-auto text-center">
-          <h1 className="text-6xl md:text-7xl font-black mb-6 text-glow text-left">
+          <h1 className="text-6xl md:text-7xl font-black mb-6 text-glow text-justify">
             Windows.Vista
           </h1>
           <p className="text-xl md:text-2xl text-foreground/90 mb-8 max-w-2xl mx-auto">
