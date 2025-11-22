@@ -20,7 +20,7 @@ interface DonationPackage {
 const donationPackages: DonationPackage[] = [
   {
     id: 1,
-    title: 'СЕРВЕР+',
+    title: 'Legend Bronze',
     price: 299,
     currency: '₽',
     benefits: ['Высокое отображение в табе', '+ 10 уровней', 'Время ответа поддержки на сервере макс. 1 час'],
