@@ -23,7 +23,7 @@ const donationPackages: DonationPackage[] = [
     title: 'СЕРВЕР+',
     price: 299,
     currency: '₽',
-    benefits: ['100 игровых монет', '5 бустеров', 'Эксклюзивный скин'],
+    benefits: ['Высокое отображение в табе', '5 бустеров', 'Эксклюзивный скин'],
     image: 'https://cdn.poehali.dev/projects/754f4399-6acd-4227-b8d6-99fbdf1aa747/files/83a9be9e-0f60-42bc-8e4a-ac3dedec2c95.jpg',
   },
   {
